@@ -1,0 +1,156 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "EmbedIO/1.11.3": {
+        "type": "package",
+        "dependencies": {
+          "Unosquare.Swan": "0.18.0"
+        },
+        "compile": {
+          "lib/net47/Unosquare.Labs.EmbedIO.dll": {}
+        },
+        "runtime": {
+          "lib/net47/Unosquare.Labs.EmbedIO.dll": {}
+        }
+      },
+      "Unosquare.Swan/0.18.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing",
+          "System.Net.Http",
+          "System.ServiceProcess"
+        ],
+        "compile": {
+          "lib/net452/Unosquare.Swan.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Unosquare.Swan.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win7-x86": {
+      "EmbedIO/1.11.3": {
+        "type": "package",
+        "dependencies": {
+          "Unosquare.Swan": "0.18.0"
+        },
+        "compile": {
+          "lib/net47/Unosquare.Labs.EmbedIO.dll": {}
+        },
+        "runtime": {
+          "lib/net47/Unosquare.Labs.EmbedIO.dll": {}
+        }
+      },
+      "Unosquare.Swan/0.18.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing",
+          "System.Net.Http",
+          "System.ServiceProcess"
+        ],
+        "compile": {
+          "lib/net452/Unosquare.Swan.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Unosquare.Swan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmbedIO/1.11.3": {
+      "sha512": "whrGOpWWT978/hd4pQ+EJbXPxoxGuIaiO39XR9iYVyVUwPleG6JWpL1sNgm6m73Pb4neRgQfqX5h6Qwl4jgX0g==",
+      "type": "package",
+      "path": "embedio/1.11.3",
+      "files": [
+        "embedio.1.11.3.nupkg.sha512",
+        "embedio.nuspec",
+        "lib/net46/Unosquare.Labs.EmbedIO.dll",
+        "lib/net46/Unosquare.Labs.EmbedIO.xml",
+        "lib/net47/Unosquare.Labs.EmbedIO.dll",
+        "lib/net47/Unosquare.Labs.EmbedIO.xml",
+        "lib/netstandard1.3/Unosquare.Labs.EmbedIO.dll",
+        "lib/netstandard1.3/Unosquare.Labs.EmbedIO.xml",
+        "lib/netstandard2.0/Unosquare.Labs.EmbedIO.dll",
+        "lib/netstandard2.0/Unosquare.Labs.EmbedIO.xml",
+        "lib/uap10.0/Unosquare.Labs.EmbedIO.dll",
+        "lib/uap10.0/Unosquare.Labs.EmbedIO.xml"
+      ]
+    },
+    "Unosquare.Swan/0.18.0": {
+      "sha512": "F+hnTPZWfulIh3YirVMg/kZkh5G/ZPACZ2f4hkoACiBy2SHZnJxQlmy1qYerWfaQ5sLbsvsdZKah9N/WXmUysg==",
+      "type": "package",
+      "path": "unosquare.swan/0.18.0",
+      "files": [
+        "lib/net452/Unosquare.Swan.dll",
+        "lib/net452/Unosquare.Swan.xml",
+        "lib/netstandard1.3/Unosquare.Swan.dll",
+        "lib/netstandard1.3/Unosquare.Swan.xml",
+        "lib/netstandard2.0/Unosquare.Swan.dll",
+        "lib/netstandard2.0/Unosquare.Swan.xml",
+        "lib/uap10.0/Unosquare.Swan.dll",
+        "lib/uap10.0/Unosquare.Swan.xml",
+        "unosquare.swan.0.18.0.nupkg.sha512",
+        "unosquare.swan.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "EmbedIO >= 1.11.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mahomedalid Pacheco\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mahomedalid Pacheco\\workbox\\personal\\zplweb2usb\\zplweb2usb.csproj",
+      "projectName": "zplweb2usb",
+      "projectPath": "C:\\Users\\Mahomedalid Pacheco\\workbox\\personal\\zplweb2usb\\zplweb2usb.csproj",
+      "packagesPath": "C:\\Users\\Mahomedalid Pacheco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mahomedalid Pacheco\\workbox\\personal\\zplweb2usb\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mahomedalid Pacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "EmbedIO": {
+            "target": "Package",
+            "version": "[1.11.3, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

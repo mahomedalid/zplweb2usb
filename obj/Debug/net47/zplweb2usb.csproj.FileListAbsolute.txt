@@ -1,0 +1,9 @@
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.csproj.CoreCompileInputs.cache
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.AssemblyInfoInputs.cache
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.AssemblyInfo.cs
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\net47\zplweb2usb.exe
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\net47\zplweb2usb.pdb
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\net47\Unosquare.Labs.EmbedIO.dll
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\net47\Unosquare.Swan.dll
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.exe
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.pdb

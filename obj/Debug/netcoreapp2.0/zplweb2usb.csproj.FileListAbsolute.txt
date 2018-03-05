@@ -1,0 +1,10 @@
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\netcoreapp2.0\zplweb2usb.csproj.CoreCompileInputs.cache
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\netcoreapp2.0\zplweb2usb.AssemblyInfoInputs.cache
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\netcoreapp2.0\zplweb2usb.AssemblyInfo.cs
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\netcoreapp2.0\zplweb2usb.deps.json
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\netcoreapp2.0\zplweb2usb.runtimeconfig.json
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\netcoreapp2.0\zplweb2usb.runtimeconfig.dev.json
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\netcoreapp2.0\zplweb2usb.dll
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\netcoreapp2.0\zplweb2usb.pdb
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\netcoreapp2.0\zplweb2usb.dll
+C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\netcoreapp2.0\zplweb2usb.pdb
