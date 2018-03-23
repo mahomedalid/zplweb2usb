@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zplweb2usb", "zplweb2usb.csproj", "{A744A9E2-086F-4F8B-B430-B4E39DCB729D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A744A9E2-086F-4F8B-B430-B4E39DCB729D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A744A9E2-086F-4F8B-B430-B4E39DCB729D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A744A9E2-086F-4F8B-B430-B4E39DCB729D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A744A9E2-086F-4F8B-B430-B4E39DCB729D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C449A48E-A7FB-43EF-9958-C7BFA135068B}
+	EndGlobalSection
+EndGlobal
