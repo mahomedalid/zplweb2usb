@@ -7,3 +7,5 @@ C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\net47\Unosqua
 C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\bin\Debug\net47\Unosquare.Swan.dll
 C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.exe
 C:\Users\Mahomedalid Pacheco\workbox\personal\zplweb2usb\obj\Debug\net47\zplweb2usb.pdb
+C:\Users\mapach\source\repos\zplweb2usb\obj\Debug\net47\zplweb2usb.exe
+C:\Users\mapach\source\repos\zplweb2usb\obj\Debug\net47\zplweb2usb.pdb
